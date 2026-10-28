@@ -1,0 +1,14 @@
+archer.westeurope.cloudapp.azure.com
+bd-mainserver.herokuapp.com
+d147nolwbekx2b.cloudfront.net
+d19oo8r6k9oumb.cloudfront.net
+d1fcoizt7mje85.cloudfront.net
+d1fzw0miu1r9rc.cloudfront.net
+d1x4e580sn23dn.cloudfront.net
+d23625plpxg1yn.cloudfront.net
+d2epnp0vokbtl7.cloudfront.net
+d2f4zpg1mgzwov.cloudfront.net
+d39619tdxn6mhj.cloudfront.net
+d8lmy5wyiokrq.cloudfront.net
+dcv2rnj2ograe.cloudfront.net
+discovertech-alb-100966113.us-east-1.elb.amazonaws.com
